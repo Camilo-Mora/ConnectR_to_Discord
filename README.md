@@ -44,7 +44,7 @@ Then on new webhook or exiting one. Copy the Webhook, which is used in TV and R.
 then click on existing or new one.
 
 <p align="center">
-<img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/WEbHook.png" width=50% >
+<img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/BOT.png" width=50% >
 </p>
 
 Click on BOT, then define the settings, like administrator. Then click on reset token, then copy it.
