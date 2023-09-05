@@ -1,5 +1,5 @@
 # How to Connect R to Discord
-To be able to delete messages from Discord, R needs specific credentials. Here I describe oe working apprach toa chive this. Caution: sending numerous requests to Discord causes it to blck the Bot.
+To be able to delete messages from Discord, R needs specific credentials. Here I describe the working apprach to achive this. Caution: sending numerous requests to Discord causes it to blck the Bot.
 
 1. Login into your account and create a channel
 
@@ -52,10 +52,24 @@ Click on BOT, then define the settings, like administrator. Then click on reset 
 <img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/BotToken.png" width=50% >
 </p>
 
+
+Bot setteing, if you want to read messages, this information requires an intent that is privilage, so you need to specify that by ensuring the bot has the priviligy to read messages.
+
+[here]([https://pages.github.com/](https://discordjs.guide/popular-topics/intents.html#error-disallowed-intents))
+
+<p align="center">
+<img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/Privilegies.png" width=50% >
+</p>
+
 6. Load the Bot in the channel. Got to OAUTHo2 and then to URL generator.. tick on Bot, and admisnistrator..at the bottom should appear a URL, copy and paste it in your browser, hit Enter
 <p align="center">
 <img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/RegisterBot.png" width=50% >
 </p>
+
+
+
+
+
 
 Select the channel to which you want to add the BOT. Click Continue and then Autorize.
 <p align="center">
