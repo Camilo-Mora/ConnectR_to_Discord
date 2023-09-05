@@ -53,7 +53,9 @@ Click on BOT, then define the settings, like administrator. Then click on reset 
 </p>
 
 
-Bot setteing, if you want to read messages, this information requires an intent that is privilage, so you need to specify that by ensuring the bot has the [priviligy to read messages]([https://pages.github.com/](https://discordjs.guide/popular-topics/intents.html#error-disallowed-intents))
+Bot setteing, if you want to read messages, this information requires an intent that is privilage, so you need to specify that by ensuring the bot has the priviligy to read messages.
+
+[here]([https://pages.github.com/](https://discordjs.guide/popular-topics/intents.html#error-disallowed-intents))
 
 <p align="center">
 <img src="https://github.com/Camilo-Mora/ConnectR_to_Discord/blob/main/Images/Privilegies.png" width=50% >
